@@ -6,3 +6,7 @@ text-align:center;
 body {
     background-color: rgb(243, 161, 239);
 }
+q {
+color:chartreuse;
+font-size: 20px;
+}
